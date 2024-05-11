@@ -8,7 +8,7 @@
 ├─code
 │      comment.py		# 爬取原始评论数据程序
 │      dataclean.py		#数据清洗
-│      epoch_loss.py	#绘制训练Loss-Epoch图
+│      epoch_loss.py		#绘制训练Loss-Epoch图
 │      factor.py		#获取评论中的因素得分
 │      parse.py			#分词
 │      sentiment.py		#情感分析
